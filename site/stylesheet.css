@@ -1,0 +1,44 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #ffa500;
+	margin:0;
+}
+
+h1{
+	font-size: 50px;
+	font-style: italic;
+	height:50px;
+	padding-top: 20px;
+	margin:0px 0px 50px 0px;
+	background-image: url("3.jpg");
+
+}
+
+.nav{
+	position: relative;
+}
+.cnt{
+	position: absolute;
+	right=10px;
+	top=0px;
+}
+
+.p1{
+	font-size: 16px;
+	font-family: cursive;
+}
+
+
+a{
+	font-size: 26px;
+	padding:0px 20px 0px 20px;
+	background-color:#8B4513;
+	border:1px solid black;
+	margin:0px 0px 20px 0px;
+	color:white;
+
+}
+
