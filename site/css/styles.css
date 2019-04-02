@@ -1,0 +1,18 @@
+body{
+	background-color: #ffa500;
+	font-size: 16px;
+	color: #fff;
+}
+
+#header-nav{
+	background-color: #654321;
+}
+
+.navbar-brand h1{
+	text-shadow: 1px 1px 1px #ffffff;
+
+}
+
+button.navbar-toggler, .navbar-toggler-icon{
+	border: 1px solid #ffa500;
+}

@@ -1,0 +1,22 @@
+.mb-0{
+	font-size: 32px;
+}
+
+.container-fluid{
+	background-color: gray;
+}
+
+.navbar{
+	background-color: gray;
+	
+}
+
+@media (max-width: 768px){
+	.temp{}
+}
+
+#list li{
+	text-align: center;
+	background-color: white;
+	border: 1px solid black;
+}
