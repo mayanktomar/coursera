@@ -1,0 +1,54 @@
+/*.mb-0{
+	font-size: 32px;
+}
+
+.container-fluid{
+	background-color: gray;
+}
+
+.navbar{
+	background-color: gray;
+	
+}
+
+@media (max-width: 768px){
+	.temp{}
+}
+
+#list li{
+	text-align: center;
+	background-color: white;
+	border: 1px solid black;
+}*/
+
+.navbar{
+	background-color: #add8e6;
+}
+.navbar-brand{
+	font-size: 64px;
+	background-color: #add8e6;
+	font-family: bold;
+}
+
+#navbarSupportedContent{
+	font-size: 25px;
+}
+
+.nav-item a:hover{
+	background-color: #256d7b;
+}
+
+/*
+#imgt{
+	padding: 0px;
+	margin: 0px;
+}
+
+.jumbotron{
+	padding: 0px;
+	margin: 0px;
+}*/
+
+#imgt{
+	margin-top: 0px;
+}
